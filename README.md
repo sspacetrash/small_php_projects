@@ -6,3 +6,5 @@ a simple data processing task where the names and grades obtained by three stude
 
 The system subsequently outputs the name of each student in turn together with the average grade achieved on the two courses.
 4. If any grade recorded is non-numeric, this should be treated as a grade of zero.
+
+PHP forum: Creating a forum that has a add topic, post system using a form. And it can also display the post according to topics.
